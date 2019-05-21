@@ -3,4 +3,6 @@ out/
 .idea/
 .gradle/
 gradle
+build
 .vertx
+poller.db
